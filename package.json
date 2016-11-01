@@ -1,0 +1,18 @@
+{
+  "name": "vacum",
+  "main": "./lib/vacum",
+  "version": "0.0.0",
+  "description": "Vacum auto saves and closes the inactive tabs and lets you focus on the active tab",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "vacum:toggle"
+  },
+  "repository": "https://github.com/atom/vacum",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

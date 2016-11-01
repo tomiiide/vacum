@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle vacum",
+        "command": "vacum:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "vacum",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "vacum:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
