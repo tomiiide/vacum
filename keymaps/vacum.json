@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "vacum:toggle"
+    "ctrl-alt-c": "vacum:clean"
   }
 }

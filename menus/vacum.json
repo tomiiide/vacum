@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle vacum",
-        "command": "vacum:toggle"
+        "label": "vacum",
+        "command": "vacum:clean"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "vacum",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "vacum:toggle"
+              "label": "clean",
+              "command": "vacum:clean"
             }
           ]
         }
